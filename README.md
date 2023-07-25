@@ -1,4 +1,4 @@
-# Time-Calculator
+# Time-Calculator ⌛
 Python3 project that calculates the resulting time of day (including AM/PM) and number of days passed after a given duration has transpired.
 
 Accepts a time string in 12-hour clock format ending in AM or PM (IE. `"12:34 PM"`) and a duration string in HH:MM format as parameters.
